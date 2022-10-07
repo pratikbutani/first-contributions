@@ -1231,6 +1231,7 @@
 - [Prasad Patil](https://github.com/prasadpatil05)
 - [AnubhavChakrabortynits](https://github.com/AnubhavChakrabortynits)
 - [KasunHewagama](https://github.com/KasunHewagama)
+- [Ruchit Soni](https://github.com/ruchit-7span)
 
 
 <!-- prettier-ignore-end -->
